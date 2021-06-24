@@ -7,12 +7,12 @@ This app will run in the browser and will feature dynamically updated HTML and C
 
 It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
-click the button to generate a password
+Employee will click the button to generate a password.
 
-prompted for length of the password && password criteria
+Employee will enter a length for the password && select password criteria. (minimum of 1 criteria is required, the more criteria selected the more secure the password will be)
 
-password is either displayed in an alert or written to the page
+Password will be written on the page and ready to use.
 
 
-## Link to the application on the browser :
+## Link to the application on the browser : https://lakehalkhaled.github.io/Password-generator/
 
