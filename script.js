@@ -148,7 +148,7 @@ function passwordValidation() {
       }
     }
     else {
-      console.log("you need a minimum  of 1 specification on your password, try again.")
+      alert("minimum of 1 criteria is required to generate a password, try again.")
     }
 
     // swtch the array into a string with no comma between
